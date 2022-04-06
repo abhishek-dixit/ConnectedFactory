@@ -8621,8 +8621,7 @@ while(true)switch(s){case 0:if($.R==null)A.atD()
 $.R.toString
 s=2
 return A.O(A.a0f(A.aCY()),$async$al3)
-case 2:$.EM().afI()
-if($.R==null)A.atD()
+case 2:if($.R==null)A.atD()
 q=$.R
 q.Rm(B.BE)
 q.F0()
@@ -40618,6 +40617,7 @@ az(){return new A.Fq($.EM(),A.cF(null),A.cF(null),$.UU(),B.k)}}
 A.Fq.prototype={
 aP(){var s,r=this
 r.bi()
+$.EM().afI()
 r.tA()
 if(r.c!=null){A.aA("registerSigninStateListener inside LoginPage")
 s=r.y.c
