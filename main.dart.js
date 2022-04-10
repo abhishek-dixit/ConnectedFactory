@@ -43122,7 +43122,7 @@ c.toString
 k=A.dO(c,null)
 if(d==null){q=-1
 s=1
-break}j="ws://"+d
+break}j="wss://"+d
 A.av("Web Socket MQTT >> url = "+j)
 i=A.aIz(j,"")
 i.b=k
