@@ -41011,11 +41011,11 @@ l.saN(0,"PLCData")}r=r?A.au("Add a New Addressable",g,g,g,g,g,g):A.au("Edit Addr
 r=A.eT(g,g,A.c6(g,A.fF(B.cc),g,new A.X1(b),g),r)
 q=!q||h.go
 q=A.cO(h.z,B.nr,q,g,g,g,!1,new A.X2())
-p=A.cO(p,B.Dy,g,g,g,g,!1,new A.X3())
+p=A.cO(p,B.Dx,g,g,g,g,!1,new A.X3())
 k=A.cO(h.ch,B.Dl,g,g,g,g,!1,new A.X4())
 j=$.asf()
 i=t.VS
-return A.d0(r,g,A.ew(A.dc(A.Bq(A.a36(A.fc(A.b([new A.V(B.l,q,g),new A.V(B.l,p,g),new A.V(B.l,k,g),new A.V(B.l,A.cO(h.cx,B.Ds,g,A.b([j],i),B.lF,g,!1,new A.X5()),g),new A.V(B.l,A.cO(s,B.Dq,g,A.b([j],i),B.lF,g,!1,new A.X6()),g),new A.V(B.l,A.cO(o,B.Dt,g,g,g,g,!1,new A.X7()),g),new A.V(B.l,A.cO(n,B.Dx,g,g,g,g,!1,g),g),new A.V(B.l,A.cO(m,B.Dr,g,g,g,g,!1,g),g),new A.V(B.l,A.cO(l,B.Do,g,g,g,g,!1,new A.X8()),g),h.px()],t.p),B.A,B.N,B.I),h.y)),g,0.7*e.a.a),g,g))},
+return A.d0(r,g,A.ew(A.dc(A.Bq(A.a36(A.fc(A.b([new A.V(B.l,q,g),new A.V(B.l,p,g),new A.V(B.l,k,g),new A.V(B.l,A.cO(h.cx,B.Dr,g,A.b([j],i),B.lF,g,!1,new A.X5()),g),new A.V(B.l,A.cO(s,B.Dp,g,A.b([j],i),B.lF,g,!1,new A.X6()),g),new A.V(B.l,A.cO(o,B.Ds,g,g,g,g,!1,new A.X7()),g),new A.V(B.l,A.cO(n,B.Dw,g,g,g,g,!1,g),g),new A.V(B.l,A.cO(m,B.Dq,g,g,g,g,!1,g),g),new A.V(B.l,A.cO(l,B.Dn,g,g,g,g,!1,new A.X8()),g),h.px()],t.p),B.A,B.N,B.I),h.y)),g,0.7*e.a.a),g,g))},
 MV(a){var s,r=this,q=u.W,p=new A.wt(r.z.a.a,r.Q.a.a,r.ch.a.a,A.dO(r.cx.a.a,null),r.cy.a.a,r.db.a.a,r.dx.a.a,r.dy.a.a,r.fr.a.a)
 if(a)if(r.go){s=r.c
 s.toString
@@ -41237,7 +41237,7 @@ q.saN(0,"UNLOCKED")
 p=n.fx
 p.saN(0,"25")
 o=A.au("Add a New Device",m,m,m,m,m,m)
-return A.d0(A.eT(m,m,A.c6(m,A.fF(B.cc),m,new A.Xd(b),m),o),m,A.ew(A.dc(A.Bq(A.a36(A.fc(A.b([new A.V(B.l,A.cO(n.z,B.DA,!0,m,m,m,!1,new A.Xe()),m),new A.V(B.l,A.cO(n.cx,B.DE,m,m,m,m,!1,new A.Xf()),m),new A.V(B.l,A.cO(n.Q,B.DD,!0,m,m,m,!1,new A.Xi()),m),new A.V(B.l,A.cO(n.ch,B.Dp,m,m,m,m,!1,new A.Xj()),m),new A.V(B.l,A.cO(p,B.Du,m,A.b([$.asf()],t.VS),B.lF,m,!1,new A.Xk()),m),new A.V(B.l,A.cO(n.cy,B.hh,!0,m,m,new A.Xl(n),!0,new A.Xm()),m),new A.V(B.l,A.cO(n.db,B.DC,!0,m,m,new A.Xn(n),!0,new A.Xo()),m),new A.V(B.l,A.cO(s,B.Dm,!0,m,m,m,!1,new A.Xp()),m),new A.V(B.l,A.cO(q,B.DB,m,m,m,m,!1,new A.Xg()),m),new A.V(B.l,A.cO(r,B.Dw,m,m,m,m,!1,new A.Xh()),m),n.px()],t.p),B.A,B.N,B.I),n.y)),m,0.7*l.a.a),m,m))},
+return A.d0(A.eT(m,m,A.c6(m,A.fF(B.cc),m,new A.Xd(b),m),o),m,A.ew(A.dc(A.Bq(A.a36(A.fc(A.b([new A.V(B.l,A.cO(n.z,B.Dz,!0,m,m,m,!1,new A.Xe()),m),new A.V(B.l,A.cO(n.cx,B.DE,m,m,m,m,!1,new A.Xf()),m),new A.V(B.l,A.cO(n.Q,B.DD,!0,m,m,m,!1,new A.Xi()),m),new A.V(B.l,A.cO(n.ch,B.Do,m,m,m,m,!1,new A.Xj()),m),new A.V(B.l,A.cO(p,B.Dt,m,A.b([$.asf()],t.VS),B.lF,m,!1,new A.Xk()),m),new A.V(B.l,A.cO(n.cy,B.hh,!0,m,m,new A.Xl(n),!0,new A.Xm()),m),new A.V(B.l,A.cO(n.db,B.DB,!0,m,m,new A.Xn(n),!0,new A.Xo()),m),new A.V(B.l,A.cO(s,B.Dm,!0,m,m,m,!1,new A.Xp()),m),new A.V(B.l,A.cO(q,B.DA,m,m,m,m,!1,new A.Xg()),m),new A.V(B.l,A.cO(r,B.Dv,m,m,m,m,!1,new A.Xh()),m),n.px()],t.p),B.A,B.N,B.I),n.y)),m,0.7*l.a.a),m,m))},
 a9v(a){var s,r=this,q="http://localhost:48081/api/v1/device",p=r.z.a.a,o=r.Q.a.a,n=r.ch.a.a,m=r.cx.a.a,l=A.dO(r.fx.a.a,null),k=r.cy.a.a,j=r.db.a.a,i=r.dx.a.a,h=r.dy.a.a,g=r.fr.a.a,f=t.dl,e=new A.xy(p,m,n,l,!0,o,k,i,j,h,g,new A.cW(f),new A.cW(f),new A.cW(f))
 f=r.k1
 if(a){f.r=3
@@ -41519,7 +41519,7 @@ s.dx=p
 s.cx.saN(0,A.a(p.a,"name"))}else{n.saN(0,"none")
 m.saN(0,"JSON")
 n.saN(0,"MQTT_TOPIC")}p=o?A.au("Add a New Export Client",r,r,r,r,r,r):A.au("Edit Export Client",r,r,r,r,r,r)
-return A.d0(A.eT(r,r,A.c6(r,A.fF(B.cc),r,new A.Xu(b),r),p),r,A.ew(A.dc(A.Bq(A.a36(A.fc(A.b([new A.V(B.l,A.cO(s.z,B.nr,o,r,r,r,!1,new A.Xv()),r),new A.V(B.l,A.cO(m,B.Dz,r,r,r,r,!1,new A.Xw()),r),new A.V(B.l,A.cO(n,B.Dv,r,r,r,r,!1,new A.Xx()),r),new A.V(B.l,A.cO(s.cx,B.hh,!0,r,r,new A.Xy(s),!0,new A.Xz()),r),s.px()],t.p),B.A,B.N,B.I),s.y)),r,0.7*q.a.a),r,r))},
+return A.d0(A.eT(r,r,A.c6(r,A.fF(B.cc),r,new A.Xu(b),r),p),r,A.ew(A.dc(A.Bq(A.a36(A.fc(A.b([new A.V(B.l,A.cO(s.z,B.nr,o,r,r,r,!1,new A.Xv()),r),new A.V(B.l,A.cO(m,B.Dy,r,r,r,r,!1,new A.Xw()),r),new A.V(B.l,A.cO(n,B.Du,r,r,r,r,!1,new A.Xx()),r),new A.V(B.l,A.cO(s.cx,B.hh,!0,r,r,new A.Xy(s),!0,new A.Xz()),r),s.px()],t.p),B.A,B.N,B.I),s.y)),r,0.7*q.a.a),r,r))},
 MW(a){var s,r,q,p,o,n,m=this,l=u.x
 if(m.dx==null){m.a.bc("Addressable invalid")
 return}s=m.z.a.a
@@ -41618,7 +41618,7 @@ A.Gi.prototype={
 K(a,b){var s,r=this,q=null,p=b.T(t.w).f
 r.pG()
 s=A.au("MQTT Broker Settings",q,q,q,q,q,q)
-return A.d0(A.eT(q,q,A.c6(q,A.fF(B.cc),q,new A.XF(b),q),s),q,A.ew(A.dc(A.Bq(A.a36(A.fc(A.b([new A.V(B.l,A.cO(r.z,B.Dn,q,q,q,q,!1,new A.XG()),q),new A.V(B.l,A.cO(r.Q,B.hh,!0,q,q,new A.XH(),!1,new A.XI()),q),A.cU(A.au("Save Settings",q,q,q,q,q,q),new A.XJ(r,b),q)],t.p),B.A,B.N,B.I),r.y)),q,0.7*p.a.a),q,q))},
+return A.d0(A.eT(q,q,A.c6(q,A.fF(B.cc),q,new A.XF(b),q),s),q,A.ew(A.dc(A.Bq(A.a36(A.fc(A.b([new A.V(B.l,A.cO(r.z,B.DC,q,q,q,q,!1,new A.XG()),q),new A.V(B.l,A.cO(r.Q,B.hh,!0,q,q,new A.XH(),!1,new A.XI()),q),A.cU(A.au("Save Settings",q,q,q,q,q,q),new A.XJ(r,b),q)],t.p),B.A,B.N,B.I),r.y)),q,0.7*p.a.a),q,q))},
 pG(){var s=0,r=A.I(t.z),q=this,p,o,n
 var $async$pG=A.E(function(a,b){if(a===1)return A.F(b,r)
 while(true)switch(s){case 0:o=q.ch
@@ -42244,8 +42244,8 @@ yb(a){var s,r="broker_url",q="broker_port"
 if(a===1){s=$.lK()
 s.jA(r,"localhost/mqtt")
 s.jA(q,"8000")}else{s=$.lK()
-s.jA(r,"broker.hivemq.com/mqtt")
-s.jA(q,"8000")}this.a1(new A.Yo(this,a))},
+s.jA(r,"broker.emqx.io/mqtt")
+s.jA(q,"8084")}this.a1(new A.Yo(this,a))},
 $iavg:1}
 A.Yk.prototype={
 $1(a){return new A.r1(null)},
@@ -78138,7 +78138,6 @@ B.bB=new A.fJ(B.aE,4280391411)
 B.x6=new A.cz(B.bB,1,B.aB)
 B.bn=new A.d8(4,B.au,B.x6)
 B.Dm=new A.ck(B.V,null,null,"Service Name",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bV,null,B.al,B.bn,null,!0,null,null,null)
-B.Dn=new A.ck(B.V,null,null,"Broker URL (localhost, broker.hivemq.com)",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
 B.Sb=new A.ck(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null)
 B.Bc=new A.u(4292998654)
 B.AZ=new A.u(4289979900)
@@ -78154,23 +78153,24 @@ B.HM=new A.bn([50,B.Bc,100,B.AZ,200,B.AP,300,B.AF,400,B.At,500,B.Af,600,B.Ae,700
 B.Ic=new A.fJ(B.HM,4278430196)
 B.x9=new A.cz(B.Ic,1,B.aB)
 B.f8=new A.d8(4,B.au,B.x9)
-B.Do=new A.ck(B.V,null,null,"Topic",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.f8,null,null,B.al,null,!0,null,null,null)
-B.Dp=new A.ck(B.V,null,null,"Device Id",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bV,null,null,B.bn,null,!0,null,null,null)
+B.Dn=new A.ck(B.V,null,null,"Topic",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.f8,null,null,B.al,null,!0,null,null,null)
+B.Do=new A.ck(B.V,null,null,"Device Id",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bV,null,null,B.bn,null,!0,null,null,null)
 B.nr=new A.ck(B.V,null,null,"Name",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
-B.Dq=new A.ck(B.V,null,null,"Path",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
-B.Dr=new A.ck(B.V,null,null,"Password",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.f8,null,null,B.al,null,!0,null,null,null)
-B.Ds=new A.ck(B.V,null,null,"Port",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
-B.Dt=new A.ck(B.V,null,null,"Publisher",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
-B.Du=new A.ck(B.V,null,null,"Register Count",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bV,null,null,B.bn,null,!0,null,null,null)
-B.Dv=new A.ck(B.V,null,null,"Destination (REST_ENDPOINT, AZURE_MQTT, IOTCORE_MQTT, MQTT_TOPIC, ZMQ_TOPIC)",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
-B.Dw=new A.ck(B.V,null,null,"Operating State",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.f8,null,null,B.bn,null,!0,null,null,null)
-B.Dx=new A.ck(B.V,null,null,"User",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
+B.Dp=new A.ck(B.V,null,null,"Path",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
+B.Dq=new A.ck(B.V,null,null,"Password",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.f8,null,null,B.al,null,!0,null,null,null)
+B.Dr=new A.ck(B.V,null,null,"Port",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
+B.Ds=new A.ck(B.V,null,null,"Publisher",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
+B.Dt=new A.ck(B.V,null,null,"Register Count",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bV,null,null,B.bn,null,!0,null,null,null)
+B.Du=new A.ck(B.V,null,null,"Destination (REST_ENDPOINT, AZURE_MQTT, IOTCORE_MQTT, MQTT_TOPIC, ZMQ_TOPIC)",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
+B.Dv=new A.ck(B.V,null,null,"Operating State",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.f8,null,null,B.bn,null,!0,null,null,null)
+B.Dw=new A.ck(B.V,null,null,"User",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
 B.hh=new A.ck(B.V,null,null,"Addressable Name",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bV,null,B.al,B.bn,null,!0,null,null,null)
-B.Dy=new A.ck(B.V,null,null,"Protocol (HTTP / OTHER)",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
-B.Dz=new A.ck(B.V,null,null,"Format (SERIALIZED, CSV, XML, JSON, IOTCORE_JSON, AZURE_JSON)",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
-B.DA=new A.ck(B.V,null,null,"Name",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bV,null,B.al,B.bn,null,!0,null,null,null)
-B.DB=new A.ck(B.V,null,null,"Admin State",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.f8,null,null,B.bn,null,!0,null,null,null)
-B.DC=new A.ck(B.V,null,null,"Profile Name",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bV,null,B.al,B.bn,null,!0,null,null,null)
+B.Dx=new A.ck(B.V,null,null,"Protocol (HTTP / OTHER)",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
+B.Dy=new A.ck(B.V,null,null,"Format (SERIALIZED, CSV, XML, JSON, IOTCORE_JSON, AZURE_JSON)",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
+B.Dz=new A.ck(B.V,null,null,"Name",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bV,null,B.al,B.bn,null,!0,null,null,null)
+B.DA=new A.ck(B.V,null,null,"Admin State",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.f8,null,null,B.bn,null,!0,null,null,null)
+B.DB=new A.ck(B.V,null,null,"Profile Name",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bV,null,B.al,B.bn,null,!0,null,null,null)
+B.DC=new A.ck(B.V,null,null,"Broker URL (localhost, broker.emqx.io)",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bo,null,null,B.al,null,!0,null,null,null)
 B.DD=new A.ck(B.V,null,null,"Device Type",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bV,null,B.al,B.bn,null,!0,null,null,null)
 B.DE=new A.ck(B.V,null,null,"Description",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.X,B.bV,null,null,B.bn,null,!0,null,null,null)
 B.DG=new A.kv(0,0.1,B.av)
