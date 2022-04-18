@@ -43187,24 +43187,24 @@ A.as("Broker exception - "+A.d(o))
 A.a(p.a,"client").zY(!1)}else throw j}for(m=p.b,l=m.length,k=0;k<m.length;m.length===l||(0,A.E)(m),++k)m[k].xd(b)
 return A.H(null,r)}})
 return A.I($async$ou,r)},
-i1(){var s=0,r=A.J(t.S),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f,e,d,c,b,a
-var $async$i1=A.F(function(a0,a1){if(a0===1){o=a1
-s=p}while(true)switch(s){case 0:e=$.lJ()
+i1(){var s=0,r=A.J(t.S),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f,e,d,c,b,a,a0
+var $async$i1=A.F(function(a1,a2){if(a1===1){o=a2
+s=p}while(true)switch(s){case 0:d=$.lJ()
 s=3
-return A.L(e.kB("broker_url"),$async$i1)
-case 3:d=a1
+return A.L(d.kB("broker_url"),$async$i1)
+case 3:c=a2
 s=4
-return A.L(e.kB("broker_port"),$async$i1)
-case 4:c=a1
+return A.L(d.kB("broker_port"),$async$i1)
+case 4:b=a2
 s=5
-return A.L(e.Ft("broker_secure"),$async$i1)
-case 5:b=a1
-c.toString
-k=A.co(c,null)
-if(d==null){q=-1
+return A.L(d.Ft("broker_secure"),$async$i1)
+case 5:a=a2
+b.toString
+k=A.co(b,null)
+if(c==null){q=-1
 s=1
-break}b.toString
-j=(b?"wss":"ws")+"://"+d
+break}a.toString
+j=(a?"wss":"ws")+"://"+c
 A.as("Web Socket MQTT >> url = "+j)
 i=A.aIE(j,"")
 i.b=k
@@ -43217,29 +43217,30 @@ $.awq="MQTT"
 A.a(m.a,"client").ch=20
 A.a(m.a,"client").dy=m.gag3()
 A.a(m.a,"client").fr=m.gag2()
-e=A.a(m.a,"client")
+d=A.a(m.a,"client")
 h=m.gagz()
-e.go=h
-e=e.z
-if(e!=null)e.r=h
-e=A.a(m.a,"client")
+d.go=h
+d=d.z
+if(d!=null)d.r=h
+d=A.a(m.a,"client")
 h=m.gah6()
-e.k2=h
-e=e.Q
-if(e!=null)e.r=h
-e=A.a(m.a,"client")
-e.y=B.nR
-e=e.x
-if(e!=null)e.cx=B.nR
-g=A.avS()
-A.a(g.c,"payload").svU("Mqtt_MyClientUniqueId")
-A.a(g.b.d,"connectFlags").c=!0
-A.a(g.c,"payload").e="willtopic"
-A.a(g.b.d,"connectFlags").c=!0
-A.a(g.c,"payload").f="My Will message"
-A.a(g.b.d,"connectFlags").b=!0
-A.a(g.b.d,"connectFlags").d=B.bk
-A.a(m.a,"client").dx=g
+d.k2=h
+d=d.Q
+if(d!=null)d.r=h
+d=A.a(m.a,"client")
+d.y=B.nR
+d=d.x
+if(d!=null)d.cx=B.nR
+g="ClientId_"+B.e.i(Date.now())
+f=A.avS()
+A.a(f.c,"payload").svU(g)
+A.a(f.b.d,"connectFlags").c=!0
+A.a(f.c,"payload").e="willtopic"
+A.a(f.b.d,"connectFlags").c=!0
+A.a(f.c,"payload").f="My Will message"
+A.a(f.b.d,"connectFlags").b=!0
+A.a(f.b.d,"connectFlags").d=B.bk
+A.a(m.a,"client").dx=f
 p=7
 s=10
 return A.L(A.a(m.a,"client").i1(),$async$i1)
@@ -43247,14 +43248,14 @@ case 10:p=2
 s=9
 break
 case 7:p=6
-a=o
-e=A.S(a)
-if(t.J.b(e)){l=e
+a0=o
+d=A.S(a0)
+if(t.J.b(d)){l=d
 A.as("Broker exception - "+A.d(l))
 m.ou(0,!1)
 q=-1
 s=1
-break}else throw a
+break}else throw a0
 s=9
 break
 case 6:s=2
